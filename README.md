@@ -2,7 +2,8 @@ qreki
 =====
 
 # What is this?
-A module that converts Gregorian dates into the old japanese lunar calendar "Kyuureki"(旧暦). 
+A conversion from H.Takanos' QReki.awk into a node-module. 
+It converts Gregorian dates into the old japanese lunar calendar "Kyuureki"(旧暦). 
 
 # Why?
 You have to search long and in all japanese-sites to find this script. And it's not easily reproduced.
